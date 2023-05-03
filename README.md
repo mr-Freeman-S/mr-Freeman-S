@@ -29,16 +29,18 @@
         <br>
 </details>
 
-<details>
-<summary style="cursor: pointer"><b>View My Contacts:</b></summary>
+
 <div align="center"><br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-white)](https://www.linkedin.com/in/slava-baranok/)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?&link=mailto:ing.miller.vega@gmail.com)](mailto:mr.baranok.slava@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-white)](https://telegram.me/mrfreeman404)
+[![Gitlab Badge](https://img.shields.io/badge/-Gitlab-c14438)](https://gitlab.com/mr.baranok)
+[![CodeWars Badge](https://img.shields.io/badge/-CodeWars-white)](https://www.codewars.com/users/rsschool_16f88ea694d4552e)
+
 <br><br>
 </div>
-</details>
+
 <br>
 <a style="color:#C9D1D9; text-decoration:none" href="https://github.com/mr-Freeman-S/mr-Freeman-S/blob/main/CV.pdf">Click me and view my resume</a>
 
