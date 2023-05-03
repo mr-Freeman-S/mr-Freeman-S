@@ -42,6 +42,6 @@
 </div>
 
 <br>
-<a style="color:#C9D1D9; text-decoration:none" href="https://github.com/mr-Freeman-S/mr-Freeman-S/blob/main/CV.pdf">Click me and view my resume</a>
+<a style="color:#C9D1D9; text-decoration:none" href="https://github.com/mr-Freeman-S/mr-Freeman-S/blob/main/CV_NEW.pdf">Click me and view my resume</a>
 
 <br><br>
